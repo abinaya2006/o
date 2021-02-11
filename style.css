@@ -1,0 +1,31 @@
+
+.head{
+    background-color: black;
+    color: rgb(198, 207, 147);
+    text-align: center;
+    font-size: 180%;
+    margin-top:-1%;
+    margin-right:-2.8%;
+    margin-left:-2.8%;
+    padding: 1cm;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: underline;
+    text-decoration-color: rgb(107, 171, 187);
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;    
+}
+
+.origami {
+    
+    border-radius: 20px;
+    background-color:coral;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
